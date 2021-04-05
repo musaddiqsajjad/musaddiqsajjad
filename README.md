@@ -6,7 +6,8 @@
 
 Projects:
 
-Location Clustering & Recommendation - Opening a business in Khobar/Dammam area https://location.musaddiq.xyz/
+Location Clustering & Recommendation - Business Recommendations in Khobar/Dammam Area 
+https://location.musaddiq.xyz/
 
 <!---
 musaddiqsajjad/musaddiqsajjad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
