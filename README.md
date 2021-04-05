@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on whatever feels good!
 - 📫 How to reach me: musaddiq.xyz
 
+Projects:
+
+Location Clustering & Recommendation - Opening a business in Khobar/Dammam area https://location.musaddiq.xyz/
+
 <!---
 musaddiqsajjad/musaddiqsajjad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
