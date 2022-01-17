@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Business Analysis and Enterprise Resource Planning.
 - 🌱 I’m currently learning data science and analytics with python.
 - 💞️ I’m looking to collaborate on whatever feels good!
-- 📫 How to reach me: musaddiq.xyz
+- 📫 How to reach me: https://musaddiq.xyz/
 
 Projects:
 
